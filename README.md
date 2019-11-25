@@ -10,4 +10,7 @@ Run it with
     python word2vec.py zhihu.txt word_embedding.txt
 
 
-I write a [blog](https://adoni.github.io/2017/11/08/word2vec-pytorch/) about the word2vec based on PyTorch.
+They write a [blog](https://adoni.github.io/2017/11/08/word2vec-pytorch/) about the word2vec based on PyTorch.
+
+
+This implementation comes from [here](https://github.com/Adoni/word2vec_pytorch)
